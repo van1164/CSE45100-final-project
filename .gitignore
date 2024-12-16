@@ -8,3 +8,7 @@ Service_System​/blog/__pycache__/
 *.pyc
 
 Service_System​/media/blog_image/
+
+*.jpg
+
+*.mp4
