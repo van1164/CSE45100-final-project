@@ -1,0 +1,10 @@
+
+Client_System​/.gradle/
+
+Client_System​/.idea/
+
+Service_System​/blog/__pycache__/
+
+*.pyc
+
+Service_System​/media/blog_image/
